@@ -36,12 +36,14 @@ class mst_line(commands.Cog):
         """
         type:       discord
         channelname:discordのチャンネル名
+        channelid:  discordのチャンネルid
         name:       discordのユーザー名
         message:    テキストメッセージ
         guildid:    サーバーid
         """
         jsonData["events"][0]={"type": "discord"}
         jsonData["events"][0]["channelname"]=message.channel.name
+        jsonData["events"][0]["channelid"]=str(message.channel.id)
         jsonData["events"][0]["name"]=message.author.name
         jsonData["events"][0]["message"]=message.clean_content
         jsonData["events"][0]["guildid"]=str(message.guild.id)
