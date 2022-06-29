@@ -20,3 +20,6 @@ Dockerを使用しているので、簡単にホストできます。
 # LINEとのメッセージ共有
 <img src="https://raw.githubusercontent.com/maguro-alternative/mywebsite/main/pic/IMG_8389.png" width="45%">   <img src="https://raw.githubusercontent.com/maguro-alternative/mywebsite/main/pic/IMG_8390.png" width="45%"/>  
 LINE側でメンションも可能です。  
+
+# カラオケ
+![kara](https://cdn.discordapp.com/attachments/964819280845766699/991514732114739250/2022-06-29_102454.png)
