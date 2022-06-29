@@ -3,7 +3,7 @@
 
 # 使い方
 本botはrailwayというサービスでホストできます。  
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/2sSv0z?referralCode=yFsnKR)
 
 # 機能
 ・ボイスチャンネルの入退室通知  
