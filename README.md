@@ -18,6 +18,7 @@ Dockerを使用しているので、簡単にホストできます。
 ![live](https://cdn.discordapp.com/attachments/701369221548081170/907283790278307920/b0098752421e8a5d.JPG)  
 
 # LINEとのメッセージ共有
+<img src="https://raw.githubusercontent.com/maguro-alternative/mywebsite/main/pic/IMG_8389.png" width="50%" higth="50%">
 ![LINE_message](https://raw.githubusercontent.com/maguro-alternative/mywebsite/main/pic/IMG_8389.png)
 ![discord_message](https://raw.githubusercontent.com/maguro-alternative/mywebsite/main/pic/IMG_8390.png)  
 LINE側でメンションも可能です。  
