@@ -7,10 +7,11 @@
 ・カラオケ(テスト段階)  
 
 # 使い方
-本botはrailwayというサービスでホストできます。  
+本botはrailwayというサービスでのホストを想定しています。  
 Dockerを使用しているので、簡単にホストできます。  
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/2sSv0z?referralCode=yFsnKR)  
 また、LINEとのメッセージ共有は別途LINEBotを稼働させ、環境変数にURLを貼る必要があります。
+[LINEBot側はこちら](https://github.com/maguro-alternative/LINE_Discord_gas/tree/main)
 
 # ボイスチャンネルの入退室通知
 ![in](https://github.com/maguro-alternative/mywebsite/blob/main/pic/disvlog.png?raw=true)
